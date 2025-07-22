@@ -40,7 +40,7 @@ nbdist/
 .nb-gradle/
 
 # VS Code
-.vscode/
+# .vscode/
 
 # Maven
 target/
