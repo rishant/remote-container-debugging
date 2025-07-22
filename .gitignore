@@ -1,0 +1,51 @@
+# Compiled source #
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.obj
+*.pyc
+*.pyo
+*.pyd
+*.out
+*.a
+*.lib
+
+# Build directories #
+/build/
+/dist/
+/bin/
+/obj/
+/target/
+/.venv/
+/node_modules/
+
+# Java specific #
+*.jar
+*.war
+*.ear
+*.log
+*.javadoc/
+*.hprof
+
+# Python specific #
+__pycache__/
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+*.log
+.env
+.venv/
+env/
+venv/
+.idea/
+.mypy_cache/
+.pytest_cache/
+.tox/
+.coverage
+.cache
+.DS_Store
